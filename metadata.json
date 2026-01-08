@@ -1,0 +1,5 @@
+{
+  "name": "Copy of DroidLog Analyzer",
+  "description": "A powerful Android dumpstate and logcat parsing tool. Automatically detects FATAL crashes, ANRs, and Exceptions, providing AI-powered insights into root causes.",
+  "requestFramePermissions": []
+}
